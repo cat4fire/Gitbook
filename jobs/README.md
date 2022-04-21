@@ -19,6 +19,9 @@ There are a few jobs the villagers can do to survive.
 *   **Contribution**
 
     In the center of your village, the portal to the space shuttle shines. You send what you’ve collected from the exploration, and you will get rewards every day. The contribution, it’s very important to know your contribution points, it determines how much rewards you can get. Of course, once you send your NFTs to the portal, you won't be able to use it again.
+*   **PVP Fighting**
+
+    Players select the best 5 villagers, equip them and let them fight to get higher rank. The WASTE tokens rewards will be distributed to top winner weekly.
 
 {% content-ref url="hunting.md" %}
 [hunting.md](hunting.md)

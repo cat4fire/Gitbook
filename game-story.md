@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # Game Story
 
 The civilization of earth was destroyed by the alien raiders. After millions of nuclear missiles devastated our green homeland then Aliens flew away with robberies of gold and other rare metals. Earth has turned into a wasteland where survival is the primary objective.

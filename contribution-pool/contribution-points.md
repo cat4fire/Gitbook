@@ -2,7 +2,7 @@
 
 Different kinds of NFT have different weights under different elements.
 
-![](https://lh3.googleusercontent.com/NoBblyIYN-Zd94rwuSiPiBQ8l4kkiqm-J2spim70nL6mDHA2Dm0pWTVOPD2SeXoPAujYagGasfEyF5Yw5ILCk6pa4bqSEdUp3VJ5Wx4kM16f5Bb9RA6HLGkF7xCKrDKKagRbZrpR)
+![](<../.gitbook/assets/contribution points.png>)
 
 From the table above, we know that food NFT has only Earth elements, and villagers have Fire and Water elements. So, contributing a villager will give you rewards from two element pools.
 

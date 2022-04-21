@@ -2,7 +2,7 @@
 
 There are 3 different Chests, and different Chests have different ratios of getting different items and also affect the attribute range of your items.
 
-![](https://lh4.googleusercontent.com/IcoQe\_Ob-eKZjWm\_aWGQffcJ\_7Pza6cQCQYomyY0tqTnYygF3v2I8VaDRctclPjCs7tgQMsN0U6us-mb9C5YMazPWHg2NO4UYE09Ase6h9DVsbZV0CqBoWqs8iReIUT23lGzxp7S)
+![](../.gitbook/assets/chest.png)
 
 **Gray Chest** can be obtained from exploring, or player can receive free Gray Chests from our marketing campaign.&#x20;
 

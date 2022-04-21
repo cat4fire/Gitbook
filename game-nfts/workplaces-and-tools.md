@@ -14,7 +14,7 @@ There are different workplaces in the Market to help your village grow fast.
 
 Check the Figure below for more detailed information.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 **Tools**
 
@@ -32,7 +32,7 @@ All tools need to be repaired after 20 uses, and your villager needs a fixed num
 
 **New Land**：If player’s village reaches the maximum number of buildings, player may buy New Land, which provides 3 spaces to build more buildings.
 
-**New Hut:** Each Hut can dwell 5 villagers. If the village reaches the maximum housing capacity, player can buy a New Hut, or the new villager can only stay in the warehouse and do nothing.
+**New Shack:** Each shack can dwell 5 villagers. If the village reaches the maximum housing capacity, player can buy a New Shack, or the new villager can only stay in the warehouse and do nothing.
 
 &#x20;
 

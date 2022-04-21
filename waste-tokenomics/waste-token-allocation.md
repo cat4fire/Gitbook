@@ -2,7 +2,7 @@
 
 The Wasteland Settlers community owns 85% of the total WASTE tokens. Others are reserved for private investors and the team. Details of the allocation are listed in the following table.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/token distribution (1).png>)
 
 The **WASTE** token is distributed to the participants of the Wasteland Settlers Community including: Stakers: **WASTE** token holders who deposit their **WASTE** that are auto-compounded at each user interaction. Players: Game players receive rewards daily based on their playing behaviors. Liquidity providers: those who provide liquidity will also receive token rewards.
 

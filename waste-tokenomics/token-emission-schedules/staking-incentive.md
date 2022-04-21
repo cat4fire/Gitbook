@@ -2,7 +2,7 @@
 
 Tokens allocated for staking incentives are emitted based on a pre-defined schedule as described in the following table.
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/staking.png)
 
 WASTE staking rewards per block of Staker A are calculated by:
 
