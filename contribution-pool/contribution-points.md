@@ -1,6 +1,6 @@
 # Contribution Points
 
-Different kinds of NFT have different weights under different elements.
+Different kinds of NFT have different weights under different elements of the Contribution Pool.
 
 ![](<../.gitbook/assets/contribution points.png>)
 
