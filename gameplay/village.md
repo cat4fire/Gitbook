@@ -16,7 +16,7 @@ Players may need to purchase other types of foods from other players and sell wh
 
 **Magic House:** Magic House is the place to upgrade NFTs, e.g., villagers, pets, weapons and dresses. Adam and Eve are not upgradable, foods are not upgradable.
 
-Upgradable NFTs are villagers, pets, weapons and dresses. To upgrade a NFT, 2 same NFT type and same level NFTs are required. One NFT is the upgrade target, one NFT is consumed.
+Upgradable NFTs are villagers, pets, weapons and dresses. To upgrade a NFT, 2 same NFT type and same level NFTs are required. One NFT is the upgrade target, one NFT is consumed. The success upgrade will increase the target NFT attributes 50%
 
 The success rate of upgrade will decrease with the level up. The initial success rate is 100%, and each success upgrade will decrease the success rate 10%. That means the Level 9 NFT is only 10% of success rate.
 

@@ -6,7 +6,7 @@ Different kinds of NFT have different weights under different elements.
 
 From the table above, we know that food NFT has only Earth elements, and villagers have Fire and Water elements. So, contributing a villager will give you rewards from two element pools.
 
-Each NFT has a basic Contribution Points, it’s the sum of total attributes. For example, strawberries have 4 Food Points, so its basic Contribution Points is 4. villagers basic Contribution Points is the sum of the villager’s Strength, Endurance and Luck.
+Each NFT has a basic Contribution Points, it’s the sum of total attributes. For example, strawberries have 4 Food Points each, so its basic Contribution Points is 4. Villagers basic Contribution Points is the sum of the villager’s Strength, Endurance and Luck.
 
 The weights are multipliers to the Contribution Points.&#x20;
 

@@ -14,7 +14,7 @@ There are different workplaces in the Market to help your village grow fast.
 
 Check the Figure below for more detailed information.
 
-![](<../.gitbook/assets/image (4).png>)
+![](../.gitbook/assets/workplaces.png)
 
 **Tools**
 

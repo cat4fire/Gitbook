@@ -1,6 +1,6 @@
 # Gameplay
 
-This game is a survival, exploration and collecting game. You are the leader of your people, you found an ideal place for your people to settle down. This place has clean water, woods, fruits and animals in the nearby forest. You decided to settle down here and build your hut, hall, warehouse.
+This game is a survival, exploration and collecting game. You are the leader of your people, you found an ideal place for your people to settle down. This place has clean water, woods, fruits and animals in the nearby forest. You decided to settle down here and build your shack, hall, warehouse.
 
 And you’ve already known that the goal for the game is to collect as many items as possible from exploring, and send it to the spaceship to get a reward. You need to assign jobs to your people.
 

@@ -8,4 +8,4 @@ Villager is rare in this game, villager Attributes determines his/her working ef
 
 **Luck:** It determines the ratio of finding better items.&#x20;
 
-**Happiness:** It determines the efficiency of working. Player can provide various foods to your villagers increase his/her happiness. Each villager will have a minimum of 10 Happiness Points and maxiumum of 100 Happiness Points.
+****
