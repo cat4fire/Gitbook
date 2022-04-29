@@ -10,11 +10,9 @@ There are different workplaces in the Market to help your village grow fast.
 
 **Production volume**: How many were produced.
 
-**Food Points to Fix the Tool**: Workplaces need to be repaired after 20 uses, and your villager needs a fixed number of Food Points to repair it.
-
 Check the Figure below for more detailed information.
 
-![](../.gitbook/assets/workplaces.png)
+![](<../.gitbook/assets/workplaces (1).png>)
 
 **Tools**
 
@@ -26,7 +24,7 @@ You can obtain tools from the Market to help your villagers increase their worki
 
 Basket and Bow will increase the efficiency for Picking Fruits and Hunting.&#x20;
 
-All tools need to be repaired after 20 uses, and your villager needs a fixed number of Food Points to repair it.
+All workplaces and tools can't be used after 20 uses, need $WASTE to repaire them.&#x20;
 
 **Others**
 
