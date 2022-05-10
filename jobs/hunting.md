@@ -2,7 +2,7 @@
 
 When a villager goes to hunt, he goes to the woods and hunts animals and brings meat back.&#x20;
 
-Each hunting time is 24 hours, each successful hunt villager will get 4 meats. And the villager’s attributes will decrease the hurting time and bring more meat back.
+Each hunting time is 24 hours, each successful hunt villager will get 2 meats. And the villager’s attributes will decrease the hurting time and bring more meat back.
 
 To send a villager to hunt, simply click the villager in the village, or click the name of the villager from the top right villager list, and then click ‘Hunt’. The villager goes to the woods and hunts and returns automatically.
 
