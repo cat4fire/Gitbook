@@ -1,8 +1,8 @@
 # Contribution Points
 
-Different kinds of NFT have different weights under different elements of the Contribution Pool.
+Different kinds of NFT have different **weights** under different elements of the Contribution Pool.
 
-![](<../.gitbook/assets/contribution points.png>)
+![NFT Contribution Weights Table](<../.gitbook/assets/contribution points.png>)
 
 From the table above, we know that food NFT has only Earth elements, and villagers have Fire and Water elements. So, contributing a villager will give you rewards from two element pools.
 

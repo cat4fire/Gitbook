@@ -10,12 +10,12 @@ Here are the articals in this session:
 [villager.md](villager.md)
 {% endcontent-ref %}
 
-{% content-ref url="foods.md" %}
-[foods.md](foods.md)
+{% content-ref url="pet.md" %}
+[pet.md](pet.md)
 {% endcontent-ref %}
 
-{% content-ref url="happiness.md" %}
-[happiness.md](happiness.md)
+{% content-ref url="foods.md" %}
+[foods.md](foods.md)
 {% endcontent-ref %}
 
 {% content-ref url="workplaces-and-tools.md" %}

@@ -9,7 +9,7 @@ There are a few jobs the villagers can do to survive.
     [Hunting ](hunting.md)and [picking fruits](picking-fruits.md) for getting your food, your villagers can’t do almost anything without food, so make sure you have enough food to live on.
 *   **Making Foods**&#x20;
 
-    There are different food types, supplying different food types will make your villagers happy. Your villager wants roast, wine, bread and sausage, they are not satisfied with only strawberries. You need to feed them at least 3 different foods to make them happy to have the full power to do the job. It seems they are spoiled way before the alien invasion. For more information, please check our [Foods ](../game-nfts/foods.md)and [Happiness ](../game-nfts/happiness.md)chapters.
+    There are different food types, supplying different food types will make your villagers happy. Your villager wants roast, wine, bread and sausage, they are not satisfied with only strawberries. You need to feed them at least 3 different foods to make them happy to have the full power to do the job. It seems they are spoiled way before the alien invasion. For more information, please check our [Foods ](../game-nfts/foods.md)and [Happiness ](../gameplay/happiness.md)chapters.
 *   **Exploring**
 
     [Exploring ](exploring.md)is the most important job to do. After you have enough foods, you need to send your villagers to explore the strange wilds. The exploration is dangerous, it’s better to have your villager well equipped. Sometimes, your villagers can find something exceeding your expectations. Your villager may find other survivors,  dogs, or weapons and other items. Those will make your villagers stronger and let your village grow faster.
