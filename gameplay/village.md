@@ -10,14 +10,8 @@ When players start the game at the first time, a spaceship village is found on t
 
 **Hall**: This shabby hall is the place for some important events, like marriage.
 
-**Market**: Market is the place players can purchase workplaces and tools, exchange NFTs with other players. Players can sell almost all of your NFTs except Adam and Eve. You need to pay 2.5% of the traded value for the transaction fee.
+**Shop**: Shop is the marketplace that players can purchase workplaces and tools, exchange NFTs with other players. Players can sell almost all of your NFTs except Adam and Eve. You need to pay 2.5% of the traded value for the transaction fee.
 
 Players may need to purchase other types of foods from other players and sell what he can produce by the workplaces. Choose smartly and trade carefully.
 
 **Magic House:** Magic House is the place to upgrade NFTs, e.g., villagers, pets, weapons and dresses. Adam and Eve are not upgradable, foods are not upgradable.
-
-Upgradable NFTs are villagers, pets, weapons and dresses. To upgrade a NFT, 2 same NFT type and same level NFTs are required. One NFT is the upgrade target, one NFT is consumed. The success upgrade will increase the target NFT attributes 50%
-
-The success rate of upgrade will decrease with the level up. The initial success rate is 100%, and each success upgrade will decrease the success rate 10%. That means the Level 9 NFT is only 10% of success rate.
-
-Upgrade consume WASTE tokens too.

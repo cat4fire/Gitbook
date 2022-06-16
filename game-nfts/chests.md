@@ -6,7 +6,7 @@ There are 3 different Chests, and different Chests have different ratios of gett
 
 **Gray Chest** can be obtained from exploring, or player can receive free Gray Chests from our marketing campaign.&#x20;
 
-**Green Chests** can be purchased directly from the Market, or through exploring, it’s rare to get through exploring, it’s better to have 100% happiness of your villager and equip him well before sending him out.
+**Green Chests** can be purchased directly from the Shop, or through exploring, it’s rare to get through exploring, it’s better to have 100% happiness of your villager and equip him well before sending him out.
 
 **Orange Chest** can’t be collected through exploring, it’s only available through our marketing activities.
 

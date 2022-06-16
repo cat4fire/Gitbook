@@ -23,7 +23,7 @@ We address 4 problems above through our solutions embedded within design of Wast
 
 * Wasteland is a **free-to-play game**, you don’t need to pay any token upfront to play the game. Everyone is welcome to start enjoying the fun of the game, learning how to play and understanding tokenomics and calculation of ROI. Of course, purchasing tools and chests will help the players to gain more from exploration and rewards.
 * Wasteland Settlers is wasteland-type RPG game We are building the wasteland metaverse, players survive in the nuclear-bombed land. **Players don’t need to level up**, simply explore the land and equip their villagers, or increase the power of the space shuttle for launching it one day to find a new planet. Wasteland Settlers is able to **set player profile picture to your own Hero NFT**, e.g. Bored Ape Yacht Club and many other 50 NFTs.
-* A unique tokenomics - Contribution Pool, **it solves the problem of Hyperinflationary and that NFTs are hard to sell.** The Contribution Pool is a **Burn-to-Reward** mechanism, it burns NFTs and rewards contributors fairly. Unlike most of Dual Tokens system, which has a unlimited game token causing inevitable inflation draining value of tokens. Contribution Pool is designed to reward contributors a total fixed number of WASTE tokens every day. This approach effectively manages token supply serving new-joining players of the metaverse.
+* A unique tokenomics - Contribution Pool, **it solves the problem of Hyperinflationary and that NFTs are hard to sell.** The Contribution Pool is a [**Burn-to-Reward**](https://medium.com/@wastelandsettlers/burn-to-reward-mechanism-6e1ff859719) mechanism, it burns NFTs and rewards contributors fairly. Unlike most of Dual Tokens system, which has a unlimited game token causing inevitable inflation draining value of tokens. Contribution Pool is designed to reward contributors a total fixed number of WASTE tokens every day. This approach effectively manages token supply serving new-joining players of the metaverse.
 * The future of this game is driven by the community, in which **85% of WASTE tokens are distributed to the community**, the DAO tokens are staked and used based on the voting. The projects will move to DAO model of governance. **The source codes are open and audited**. It’s transparent to all players.
 
 The summary is in below table:
@@ -32,6 +32,6 @@ The summary is in below table:
 | ---------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------- |
 | Prepaid to play                                | Yes                          | No, it’s free to play                                                  |
 | Copycats game                                  | Yes                          | No levelup, ability to set player profile picture to player's hero NFT |
-| Hyperinflationary and unsustainable tokenomics | Yes                          | Unique Contribution Pool tokenomics to balance the game economy        |
+| Hyperinflationary and unsustainable tokenomics | Yes                          | Unique Burn-to-Reward mechanism to balance the game economy            |
 | Project owner ran away?                        | It happens                   | 85% of token to the community and code are open and safe               |
 

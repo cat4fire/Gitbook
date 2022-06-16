@@ -1,6 +1,6 @@
 # Workplaces and Tools
 
-There are different workplaces in the Market to help your village grow fast.
+There are different workplaces in the Shop to help your village grow fast.
 
 **Input**: some workplaces require input materials to produce, for example, Mill takes 20 grains and produces 20 Flours.
 
@@ -16,7 +16,7 @@ Check the Figure below for more detailed information.
 
 **Tools**
 
-You can obtain tools from the Market to help your villagers increase their working efficiency.
+You can obtain tools from the Shop to help your villagers increase their working efficiency.
 
 **Bow**: Increase Hunting Efficiency 3 times&#x20;
 

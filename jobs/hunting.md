@@ -12,6 +12,6 @@ To send a villager to hunt, simply click the villager in the village, or click t
 
 **Luck Attribute:** Luck determines the ratio of Double Hits, Double Hits will give you 8 meats in one shot.
 
-Tools to use – Bow, it can be purchased directly from the game Market.
+Tools to use – Bow, it can be purchased directly from the game Shop.
 
 Bow can highly increase the villager’s hunting efficiency, it will collect 12 meats instead of 4 meats in one shot. If a player is lucky to get a Double Hits, that’ll collect 24 meats.

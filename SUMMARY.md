@@ -20,6 +20,7 @@
   * [Exploring](jobs/exploring.md)
   * [Giving Birth](jobs/giving-birth.md)
   * [Player VS Player Fighting (PVP)](jobs/player-vs-player-fighting-pvp.md)
+  * [Upgrading](jobs/upgrading.md)
 * [Contribution Pool](contribution-pool/README.md)
   * [Contribution Points](contribution-pool/contribution-points.md)
   * [Contribution Pool Rewards](contribution-pool/contribution-pool-rewards.md)
