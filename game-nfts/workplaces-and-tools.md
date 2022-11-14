@@ -12,7 +12,7 @@ There are different workplaces in the Shop to help your village grow fast.
 
 Check the Figure below for more detailed information.
 
-![](<../.gitbook/assets/workplaces (1).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Tools**
 
